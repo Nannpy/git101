@@ -5,3 +5,5 @@ First git repo
 This is my first git repository.
 * My name is Nannam Chaichanyut.
 * 6810110179
+
+* Department of Computer Engineering, **Faculty of Engineering**, Prince of Songkla University
